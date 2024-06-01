@@ -187,12 +187,21 @@ const Home = () => {
 
             {/* Github Statistics */}
             <Box id="githubStats">
-               
+            
+                <Heading textAlign="center">Github <span className='themeText'>stats</span></Heading>
+                <Center className='github-stats'>
+                    
+                </Center>
+
+                <Center className='github-stats'>
+                    
+                </Center>
 
                 <Center>
                     <GitHubCalendar username="akramjaadi" color="red" children={<ReactTooltip html />} />
                 </Center>
             </Box>
+
 
 
             {/* Contact me */}
