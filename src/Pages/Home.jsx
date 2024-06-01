@@ -279,7 +279,7 @@ const Home = () => {
             <Flex id='footer'>
                 <Text>© Portfolio by Akram A. | All rights reserved.</Text>
 
-                <Text>Made with 💖 by Atanu</Text>
+                <Text>Made with 💖 by Akram</Text>
             </Flex>
         </Box >
     )
