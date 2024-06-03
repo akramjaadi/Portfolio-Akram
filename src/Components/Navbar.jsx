@@ -31,6 +31,9 @@ const Navbar = () => {
                 <Box>
                     <Button><Link href="#skills"><span>Skills</span></Link></Button>
                 </Box>
+                <Box>
+                    <Button><Link href="#skills"><span>Featured Projects</span></Link></Button>
+                </Box>
                 
                 <Box>
                     <Button onClick={()=>{window.open("https://drive.google.com/file/d/1jBa-w_YRCtrqAD7xrFaRw20mwkTO6QhH/view", '_blank')}}><a href={Resume} download="Atanu-Karmakar-Resume"><span>Resume</span></a></Button>
